@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
 
-title: Adam
-tab__title: Adam Morgan - Web Developer and Designer
-meta__title: Adam Morgan – Full Stack Software Engineer and Web Designer
+title: Savana
+tab__title: Savana - Rychanhome Design Concept
+meta__title: Savana - Rychanhome Design Concept
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Adam Morgan – Hire me to design and build your next website!
 
@@ -27,23 +27,22 @@ menu__settings:
     #     title: 'Elements'
 
 # Call to action button
-cta__button__text: Book now!
-cta__button_url: 'https://calendly.com/atom-morgan'
+cta__button__text: Inbox me!
+cta__button_url: 'https://m.me/Saigonvanang'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
-cover__image: '/images/cover-image.jpg'
+cover__image: 'https://scontent.fsgn13-1.fna.fbcdn.net/v/t1.6435-9/64350293_1065679136957492_3981678074893697024_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=h3PrypUZFr0AX-q3mxa&_nc_ht=scontent.fsgn13-1.fna&oh=00_AT-xU4xhYgV3zvWiEjweU7i97xGGbxWP0HCwhZTmdsey7w&oe=62DF400F'
 
 
 #-------------------------------
 # Author Settings
 
 author:
-  name: Adam Morgan
-  title: Hello I’m Adam Morgan
-  # bio: Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere.
+  name: Ry Nguyễn
+  title: Hello I’m Nhung Nguyen / Ry
+  # bio: Art Director & Graphic Designer based in Ho Chi Minh City
   bio: "
-    I'm a freelance Web Designer and Full-Stack Developer based in Atlanta.
-    I enjoy building everything from small business sites to interactive web apps.<br/><br/>
+    Art Director & Graphic Designer based in Ho Chi Minh City<br/><br/>
     If you're interested you can schedule a preliminary call with me here.
     "
   image: '/images/adam-full.png'
