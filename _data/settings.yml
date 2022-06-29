@@ -27,7 +27,7 @@ menu__settings:
     #     title: 'Elements'
 
 # Call to action button
-cta__button__text: Inbox me!
+cta__button__text: Inbox me
 cta__button_url: 'https://m.me/Saigonvanang'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
@@ -39,13 +39,14 @@ cover__image: 'https://scontent.fsgn13-1.fna.fbcdn.net/v/t39.30808-6/290507749_5
 
 author:
   name: Ry Nguyễn
-  title: Hello I’m Nhung Nguyen / Ry
+  title: Hello I’m Ry / Nhung Nguyễn
   # bio: Art Director & Graphic Designer based in Ho Chi Minh City
   bio: "
-    Art Director & Graphic Designer based in Ho Chi Minh City<br/><br/>
-    If you're interested you can schedule a preliminary call with me here.
+    An illustrator based in Saigon, Vietnam. <br/><br/>
+    Here you can see some of my latest WORK. Feel free to snoop around on my SOCIAL MEDIA or inquiries or a how you doing CONTACT ME.
+I will be happy to hear from you..
     "
-  image: 'https://scontent.fsgn13-1.fna.fbcdn.net/v/t39.30808-6/290507749_5159886047394481_6679507132786261895_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=xOv4KRCrs3gAX8dH8Tp&tn=054vBQSPaXuVR5hr&_nc_ht=scontent.fsgn13-1.fna&oh=00_AT9AaaIf5lkRI4POQupDFQtaG_9WjCjUV0hs-DlBc3WtAQ&oe=62BC5D7B'
+  image: 'https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/290916631_5210552599036649_7766948153156181770_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=WKvINXKmxlUAX9elVR2&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT9eQjIlIWiyMCuvL0V2v4g70U9FmIvwl5unWpWpRxqFyA&oe=62C0FEE8'
   avatar: 'https://scontent.fsgn13-1.fna.fbcdn.net/v/t39.30808-6/290507749_5159886047394481_6679507132786261895_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=xOv4KRCrs3gAX8dH8Tp&tn=054vBQSPaXuVR5hr&_nc_ht=scontent.fsgn13-1.fna&oh=00_AT9AaaIf5lkRI4POQupDFQtaG_9WjCjUV0hs-DlBc3WtAQ&oe=62BC5D7B'
   button__text: See my work
 
