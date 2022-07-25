@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.atommorgan.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lightix98.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
 
-paginate: 6
+paginate: 9
 paginate_path: "/blog/page/:num"
 
 

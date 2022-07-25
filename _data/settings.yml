@@ -2,10 +2,10 @@
 # Site Settings
 
 title: Savana
-tab__title: Savana - Rychanhome Design Concept
-meta__title: Savana - Rychanhome Design Concept
-logo: # You can add own logo. For example '/images/logo.png'.
-description: Savana - Rychanhome Design Concept
+tab__title: Savana - Rychan Design Concept.
+meta__title: Savana - Rychan Design Concept.
+logo: # You can add own logo. For example '/images/logo.png'
+description: Savana - Rychan Design Concept.
 
 menu__settings:
   menu__items:
@@ -13,12 +13,14 @@ menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
+    - title: 'Blogs'
       url: '/blog/'
+    - title: 'Categories'
+      url: '/categories/'
     - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+      url: '/about/'
+    # - title: 'Contact'
+    #  url: '/contact'
     # - title: 'Pages'
     #   submenu:
     #   - url: '/about'
@@ -31,7 +33,7 @@ cta__button__text: Inbox me
 cta__button_url: 'https://m.me/Saigonvanang'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
-cover__image: 'https://scontent.fsgn13-1.fna.fbcdn.net/v/t39.30808-6/290507749_5159886047394481_6679507132786261895_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=xOv4KRCrs3gAX8dH8Tp&tn=054vBQSPaXuVR5hr&_nc_ht=scontent.fsgn13-1.fna&oh=00_AT9AaaIf5lkRI4POQupDFQtaG_9WjCjUV0hs-DlBc3WtAQ&oe=62BC5D7B'
+cover__image: 'https://drive.google.com/drive/folders/1cj_7X6s53v-L10hoy8vOF4hk9mBQX0aj'
 
 
 #-------------------------------
@@ -39,15 +41,14 @@ cover__image: 'https://scontent.fsgn13-1.fna.fbcdn.net/v/t39.30808-6/290507749_5
 
 author:
   name: Ry Nguyễn
-  title: Hello I’m Ry / Nhung Nguyễn
+  title: Hi, I’m RY / NHUNG NGUYEN
   # bio: Art Director & Graphic Designer based in Ho Chi Minh City
   bio: "
-    An illustrator based in Saigon, Vietnam. <br/><br/>
-    Here you can see some of my latest WORK. Feel free to snoop around on my SOCIAL MEDIA or inquiries or a how you doing CONTACT ME.
-I will be happy to hear from you..
+    An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK. Feel free to snoop around on my SOCIAL MEDIA or inquiries or a how you doing CONTACT ME.
+I will be happy to hear from you. 🧑🏻‍🎨
     "
-  image: 'https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/290916631_5210552599036649_7766948153156181770_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0debeb&_nc_ohc=WKvINXKmxlUAX9elVR2&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT9eQjIlIWiyMCuvL0V2v4g70U9FmIvwl5unWpWpRxqFyA&oe=62C0FEE8'
-  avatar: 'https://scontent.fsgn13-1.fna.fbcdn.net/v/t39.30808-6/290507749_5159886047394481_6679507132786261895_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=xOv4KRCrs3gAX8dH8Tp&tn=054vBQSPaXuVR5hr&_nc_ht=scontent.fsgn13-1.fna&oh=00_AT9AaaIf5lkRI4POQupDFQtaG_9WjCjUV0hs-DlBc3WtAQ&oe=62BC5D7B'
+  image: 'https://drive.google.com/drive/folders/1cj_7X6s53v-L10hoy8vOF4hk9mBQX0aj'
+  avatar: 'https://drive.google.com/drive/folders/1cj_7X6s53v-L10hoy8vOF4hk9mBQX0aj'
   button__text: See my work
 
 
@@ -57,30 +58,30 @@ I will be happy to hear from you..
 projects__settings:
   projects__title: Latest <span class="text-span">Work</span> # Add a 'text-span' class to highlight text.
   projects__description: "
-    Whether you need a personal website or a fully featured web app, I can help you meet your business needs.
+    An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK.
     "
 
 
 #-------------------------------
 # Testimonials Section
 
-testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
+testimonial__title: My Happy <span class="text-span">Teammates & Clients</span> # Add a 'text-span' class to highlight text.
 
 testimonial-items:
-  - name: "Levi Robertson"
-    image: "/images/testimonial-levi.jpeg"
-    designation : "Host of JAMstack Phoenix"
-    content : "The Angular Tutorial along with Adam’s advice has completely changed my career..."
+  - name: "Chang Duong"
+    image: "https://scontent-hkg4-1.xx.fbcdn.net/v/t1.6435-9/186513408_161209826015388_6501278367245198459_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=_ydXDsCfK38AX_xI7N2&tn=054vBQSPaXuVR5hr&_nc_ht=scontent-hkg4-1.xx&oh=00_AT9Xx9Y-tb9kctyyF6iDxcaeUosr1SSgPp39Htn8WYtAAQ&oe=62EFA5FF"
+    designation : "Graphic Designer @ Sky Corp."
+    content : "Ry Nguyen is my best partner ever. Ry Nguyen is my best partner ever."
 
-  - name: "Kaeside Iwuagwu"
-    image: "/images/testimonial-kaeside.jpeg"
-    designation : "Implementation Manager at WebMD"
-    content : "Adam has a knack for breaking down complex topics and keeps learning Angular fun."
+  - name: "Hoang Dang"
+    image: "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/289594478_5143219802394439_1351675498149044689_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=zcFiO33JwMIAX9SSEac&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT9HywvgabfP8qI047wzw-3S2iYPIxyj5fiQTLCOlZZMeA&oe=62CFA229"
+    designation : "Product Manager @ OMC"
+    content : "I am very proud of Ry, cause of her creative and contribution for team!"
 
-  - name: "Matthew Knowles"
-    image: "/images/testimonial-matthew.jpeg"
-    designation : "Software Engineer"
-    content : "If you are using Angular in a professional setting I can not recommend The Angular Tutorial highly enough."
+  - name: "Circus Squad"
+    image: "https://scontent.fsgn8-2.fna.fbcdn.net/v/t39.30808-6/279753168_5025814980801589_4396901481463722989_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=W-bda45Z2skAX_9b1o5&_nc_ht=scontent.fsgn8-2.fna&oh=00_AT8uA4ZRMdhSghj9F8H0lSy0CvI13L0ocL_0NeiAkmVEQg&oe=62D0975F"
+    designation : "Loyalty Product @ OMC"
+    content : "She is our big-sister at company. She is our big-sister at company."
 
   # - name: "Julie Arnold"
   #   image: "/images/client-4.jpg"
@@ -93,26 +94,26 @@ testimonial-items:
 
 blog__settings:
   blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
-  blog__description:
+  blog__description: An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK.
 
 
 #-------------------------------
 # Contact Settings
 
 contact__settings:
-  contact__email: atom.morgan@gmail.com # Add your email for contact form
+  contact__email: hoanglight.98@gmail.com # Add your email for contact form
   contact__title: <span class="text-span">Get</span> in touch # Add a title to your form
   contact__description: Need some work? I'm your guy. # Add a description to your form
 
 # NOTE
-# Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+# Savana comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
 
 
 #-------------------------------
 # Newsletter Settings
 mailchimp__settings:
-  mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
-  mailchimp__text: " 'Get inspiration, updates and', 'cool stuff about web development!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+  mailchimp__title: <span class="text-span">Keep</span> in touch # Add your title
+  mailchimp__text: " 'Think different. Design with emotions. 🤞🏻' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
   mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
   mailchimp__button__text: Subscribe # Add your button text
 
@@ -124,7 +125,7 @@ disqus-identifier: # add your shortname for Disqus Comment. For example anvodstu
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-63422466-1 # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-# Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
@@ -133,10 +134,19 @@ google-analytics: UA-63422466-1 # Add your identifier. For example UA-99631805-1
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/atommorgan"}
-- {icon: "ion-logo-github", link: "https://github.com/atom-morgan"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com/adamjmorgan"}
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/RyNguyen20"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/c/rychanhome"}
+- {icon: "ion-logo-dribbble", link: "https://dribbble.com/RyNguyen"}
+- {icon: "ion-logo-codepen", link: "https://www.behance.net/rynguyen"}
 # - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # - {icon: "ion-logo-codepen", link: "https://codepen.io"}
 # - {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
-# - {icon: "ion-logo-youtube", link: "https://youtube.com"}
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  /:title
+
+sass:
+  sass_dir: _sass
+  style: compressed

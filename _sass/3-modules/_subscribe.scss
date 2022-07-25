@@ -29,15 +29,6 @@
       display: block;
       width: 130px;
       height: 100px;
-      background-image: -webkit-repeating-radial-gradient(center center, rgba($primary-color, .7), rgba($primary-color, .7) 2px, transparent 2px, transparent 100%);
-      background-image: -moz-repeating-radial-gradient(center center, rgba($primary-color, .7), rgba($primary-color, .7) 2px, transparent 2px, transparent 100%);
-      background-image: -ms-repeating-radial-gradient(center center, rgba($primary-color, .7), rgba($primary-color, .7) 2px, transparent 2px, transparent 100%);
-      background-image: repeating-radial-gradient(center center, rgba($primary-color, .7), rgba($primary-color, .7) 2px, transparent 2px, transparent 100%);
-      -webkit-background-size: 15px 15px;
-      -moz-background-size: 15px 15px;
-      background-size: 15px 15px;
-      opacity: 0.8;
-      user-select: none;
     }
   }
 

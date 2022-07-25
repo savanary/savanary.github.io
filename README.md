@@ -1,1 +1,1 @@
-Savana Only
+Savana
