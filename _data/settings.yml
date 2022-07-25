@@ -1,11 +1,11 @@
 #-------------------------------
 # Site Settings
 
-title: Savana
-tab__title: Savana - Rychan Design Concept.
-meta__title: Savana - Rychan Design Concept.
+title: RyChan
+tab__title: RyChan - Sà Và Ná Design Concept.
+meta__title: RyChan - Sà Và Ná Design Concept.
 logo: # You can add own logo. For example '/images/logo.png'
-description: Savana - Rychan Design Concept.
+description: RyChan - Sà Và Ná Design Concept.
 
 menu__settings:
   menu__items:
@@ -33,7 +33,7 @@ cta__button__text: Inbox me
 cta__button_url: 'https://m.me/Saigonvanang'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
-cover__image: 'https://drive.google.com/drive/folders/1cj_7X6s53v-L10hoy8vOF4hk9mBQX0aj'
+cover__image: 'https://imgur.com/a/ESDlJFy'
 
 
 #-------------------------------
@@ -47,8 +47,8 @@ author:
     An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK. Feel free to snoop around on my SOCIAL MEDIA or inquiries or a how you doing CONTACT ME.
 I will be happy to hear from you. 🧑🏻‍🎨
     "
-  image: 'https://drive.google.com/drive/folders/1cj_7X6s53v-L10hoy8vOF4hk9mBQX0aj'
-  avatar: 'https://drive.google.com/drive/folders/1cj_7X6s53v-L10hoy8vOF4hk9mBQX0aj'
+  image: 'https://imgur.com/a/ESDlJFy'
+  avatar: 'https://imgur.com/a/ESDlJFy'
   button__text: See my work
 
 
@@ -113,7 +113,7 @@ contact__settings:
 # Newsletter Settings
 mailchimp__settings:
   mailchimp__title: <span class="text-span">Keep</span> in touch # Add your title
-  mailchimp__text: " 'Think different. Design with emotions. 🤞🏻' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+  mailchimp__text: " 'Think different. Design with emotion. 🤞🏻' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
   mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
   mailchimp__button__text: Subscribe # Add your button text
 
