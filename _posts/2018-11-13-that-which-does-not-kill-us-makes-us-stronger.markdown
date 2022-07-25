@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  That which does not kill us makes us stronger
-date:   2018-11-13 15:01:35 +0300
-image:  '/images/20.jpg'
+date:   2018-11-13 15:01:35 +0700
+image:  'blob:https://mega.nz/ff3543ca-14a4-4926-82f1-3f4bb8341a50'
 tags:   [Travel, Rest]
 featured:
 ---
@@ -10,12 +10,12 @@ Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/51.jpg">
-    <img src="/images/52.jpg">
-    <img src="/images/63.jpg">
-    <img src="/images/54.jpg">
-    <img src="/images/68.jpg">
-    <img src="/images/56.jpg">
+    <img src="blob:https://mega.nz/ff3543ca-14a4-4926-82f1-3f4bb8341a50">
+    <img src="blob:https://mega.nz/ff3543ca-14a4-4926-82f1-3f4bb8341a50">
+    <img src="blob:https://mega.nz/ff3543ca-14a4-4926-82f1-3f4bb8341a50">
+    <img src="blob:https://mega.nz/ff3543ca-14a4-4926-82f1-3f4bb8341a50">
+    <img src="blob:https://mega.nz/ff3543ca-14a4-4926-82f1-3f4bb8341a50">
+    <img src="blob:https://mega.nz/ff3543ca-14a4-4926-82f1-3f4bb8341a50">
   </div>
   <em>Beautiful places / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>

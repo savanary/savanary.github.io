@@ -4,13 +4,13 @@ date: '2019-07-23'
 layout: post
 tag: [lifestyle,tips]
 subtitle: Life style
-image: 'https://lh3.google.com/pw/AM-JKLXPBzNz-PjXRIMjTzBfr1_kbKThy2rOA42pdx2NZhj9WW13qXEgjlO4wtPIeOYDhrdnYa6nccvQdZlxQdsVleq03VAH0wE=w1333-h1000-no?authuser=0'
+image: 'blob:https://mega.nz/ff3543ca-14a4-4926-82f1-3f4bb8341a50'
 excerpt: >-
 Nếu mà bạn là người cũng bận rộn, nhưng chán cảnh ăn ở ngoài, muốn tự nấu ăn, thì tham khảo thực đơn 7 ngày ở trên của mình nha. Hy vọng có thể tiếp động lực cùng mang cơm đi làm như mình nè.
 description: >-
 Nếu mà bạn là người cũng bận rộn, nhưng chán cảnh ăn ở ngoài, muốn tự nấu ăn, thì tham khảo thực đơn 7 ngày ở trên của mình nha. Hy vọng có thể tiếp động lực cùng mang cơm đi làm như mình nè.
 
-thumb_image: 'https://lh3.google.com/pw/AM-JKLXPBzNz-PjXRIMjTzBfr1_kbKThy2rOA42pdx2NZhj9WW13qXEgjlO4wtPIeOYDhrdnYa6nccvQdZlxQdsVleq03VAH0wE=w1333-h1000-no?authuser=0'
+thumb_image: 'blob:https://mega.nz/ff3543ca-14a4-4926-82f1-3f4bb8341a50'
 ---
 
 Đồng nghiệp thấy mình mang cơm đi làm mỗi ngày là một món khác nhau, chắc nghĩ mình có nhiều thời gian và siêng năng nấu ăn.
@@ -44,14 +44,14 @@ Thịt nạc mua từ chợ về cần được rửa với nước muối. Kho 
 Mẹ mình dạy là thịt heo phải chần qua nước sôi trước khi nấu, bỏ đi phần nước đầu, để cho sạch ấy mà. Sau đó mới ướp gia vị rồi đem kho.
 Thịt heo mình hay kho với hành tím, gia vị như muối, bột nêm, nước mắm, hạt tiêu, một tí nước màu và hạn chế dùng dầu ăn. Mỡ từ thịt tiết ra đã đủ rồi nên mình chỉ kho chung với nước lọc mà bỏ qua dầu ăn.
 
-![Thứ 2](https://lh3.google.com/pw/AM-JKLX5_Mx87BXgDmxjDZeuLWDCIdU3kYEUBRHZ2zhz143PTzEuhuPaCTmNNNsz07kaRI6yvJm7CjQmebgFU0MFztoyql69UOw=w720-h540-no?authuser=0)
+![Thứ 2](blob:https://mega.nz/ff3543ca-14a4-4926-82f1-3f4bb8341a50)
 
 
 ### Thứ 3:
 
 Cơm cuộn gạo lứt rong biển thì hơi cực lúc chế biến vì nhiều nguyên liệu. Cà rốt luộc thái sợi nè, dưa leo rửa sạch cắt sợi, trứng chiên thái sơị, tôm luộc chẻ đôi. Lỉnh kỉnh thế chứ làm cũng không mất thời gian lắm đâu.
 
-![Thứ 3](https://lh3.google.com/pw/AM-JKLXr0-FPA4LQnydCig6AV0jXF2a9tCQ14U0uNFW4kk7PG6C2NB72Aqa4ny8FN3eIo5S0dyDDuzVgOMXmLZKyvO06BdWbhrs=w720-h540-no?authuser=0)
+![Thứ 3](blob:https://mega.nz/ff3543ca-14a4-4926-82f1-3f4bb8341a50)
 
 
 ### Thứ 4 :
