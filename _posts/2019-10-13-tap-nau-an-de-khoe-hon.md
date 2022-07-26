@@ -4,8 +4,13 @@ date: 2019-10-13
 layout: post
 tag: [lifestyle,tips]
 subtitle: Life style
+<<<<<<< HEAD
 image: 'https://pbs.twimg.com/media/FYjS7rZagAAY8dA?format=jpg&name=large'
 thumb_image: 'https://pbs.twimg.com/media/FYjS7rZagAAY8dA?format=jpg&name=large'
+=======
+image: 'https://lh3.google.com/pw/AM-JKLV4lpKm6zB33Q7BHVKm5EDQeekD4RPMMaq_RH_1-_xVJO7SNSk58fpG6PEXDWT9NpBFX_AlB-lU8plz_JCPiatgLF0NYQk=w720-h762-no?authuser=0'
+thumb_image: 'https://lh3.google.com/pw/AM-JKLV4lpKm6zB33Q7BHVKm5EDQeekD4RPMMaq_RH_1-_xVJO7SNSk58fpG6PEXDWT9NpBFX_AlB-lU8plz_JCPiatgLF0NYQk=w720-h762-no?authuser=0'
+>>>>>>> 2a4a8317c924364afee278314841656cdc06f24a
 excerpt: >-
 Điều này làm mình chủ động hơn về thời gian biểu và bản thân mình biết mình đang nạp những thứ gì vào người, có sạch hay không, có đủ chất hay chưa, và cả cân bằng được túi tiền nữa. 
 description: >-
@@ -70,7 +75,11 @@ Cũng cứ lặp lại 1 món mặn, 1 món rau. Bên cạnh đó thì có trái
 
 Nói chung đây cũng chưa phải #eatclean đâu, vì mình chưa thực sự chú trọng vào phân chia lượng chất dinh dưỡng cho mỗi phần ăn. Mình chỉ là đang cố gắng duy trì thói quen chủ động trong ăn uống, tạo niềm vui cho mỗi ngày nấu ăn, thay đổi thực đơn để không còn nhàm chán với những món cơm tiệm mỗi ngày. Cố gắng ăn đúng bữa, tiết chế nhất có thể những thức ăn không tốt cho sức khỏe. Và nhất là không còn giảm cân theo kiểu ăn - thật - là - ít nữa (hậu quả khó lường).
 
+<<<<<<< HEAD
 Cách đây 2 năm mình từng bị bệnh khá nặng, nguyên nhân cũng vì thói quen ăn uống và sinh hoạt. Thời điểm đó buộc mình bắt đầu nhìn lại bản thân, rồi thay đổi dần - bằng cách tự nấu ăn. 🥬
+=======
+Cách đây 2 năm mình từng bị bệnh khá nặng, nguyên nhân cũng vì thói quen ăn uống và sinh hoạt. Thời điểm đó buộc mình bắt đầu nhìn lại bản thân, rồi thay đổi dần - bằng cách tự nấu ăn. 
+>>>>>>> 2a4a8317c924364afee278314841656cdc06f24a
 
 > Nấu gì cũng được miễn là biết mình đang ăn gì. 
 
