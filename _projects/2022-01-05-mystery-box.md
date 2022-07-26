@@ -1,9 +1,9 @@
 ---
-title: LUCKY SPIN
-date: 2021-12-05
+title: MYSTERY BOX
+date: 2022-01-05
 subtitle: Product Illustration
 description: Client - Allied Security Trust
-image: 'https://pbs.twimg.com/media/FYnDDpHaQAA6I7-?format=png&name=4096x4096'
+image: 'https://pbs.twimg.com/media/FYnDDpQaAAApkg5?format=png&name=4096x4096'
 ---
 
 <!-- <div class="gallery-box">
