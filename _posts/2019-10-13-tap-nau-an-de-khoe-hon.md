@@ -3,13 +3,13 @@ title: TẬP NẤU ĂN ĐỂ KHOẺ HƠN
 date: 2019-10-13
 layout: post
 tag: [lifestyle,tips]
-subtitle: Life style
+subtitle: Travel
 image: 'https://pbs.twimg.com/media/FYjS7rZagAAY8dA?format=jpg&name=large'
 thumb_image: 'https://pbs.twimg.com/media/FYjS7rZagAAY8dA?format=jpg&name=large'
 excerpt: >-
-Điều này làm mình chủ động hơn về thời gian biểu và bản thân mình biết mình đang nạp những thứ gì vào người, có sạch hay không, có đủ chất hay chưa, và cả cân bằng được túi tiền nữa. 
+  Điều này làm mình chủ động hơn về thời gian biểu và bản thân mình biết mình đang nạp những thứ gì vào người, có sạch hay không, có đủ chất hay chưa, và cả cân bằng được túi tiền nữa.
 description: >-
-Điều này làm mình chủ động hơn về thời gian biểu và bản thân mình biết mình đang nạp những thứ gì vào người, có sạch hay không, có đủ chất hay chưa, và cả cân bằng được túi tiền nữa. 
+  Điều này làm mình chủ động hơn về thời gian biểu và bản thân mình biết mình đang nạp những thứ gì vào người, có sạch hay không, có đủ chất hay chưa, và cả cân bằng được túi tiền nữa.
 ---
 
 > Đừng để kiếm tiền xong dồn hết đi chữa bệnh nha.
