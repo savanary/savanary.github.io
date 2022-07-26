@@ -16,12 +16,12 @@ image: 'https://pbs.twimg.com/media/FYnDDpQaAAApkg5?format=png&name=4096x4096'
 </div> -->
 
 Client: VinID <BR>
-Visualizer: Ry Nguyen<BR>
+Visualizer: Ry Nguyen<BR> & Team Marketing
 Product designer: Nguyễn Thành Quang<BR>
-UX Writer: Trang Lục<BR>
+UX Writer: Trang Lục<BR> & Team Marketing
 
 Đây là 1 trong những concept gamification của App VinID<br>
-Concept may rủi thể hiện qua vòng quay may mắn<br>
+Concept may rủi thể hiện qua việc lựa các hộp quà để mở<br>
 
 
 🔥 Chi tiết project : cập nhật sau
