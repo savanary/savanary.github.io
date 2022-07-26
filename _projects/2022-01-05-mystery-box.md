@@ -1,6 +1,7 @@
 ---
 title: MYSTERY BOX
 date: 2022-01-05
+feature: true
 subtitle: Product Illustration
 description: Client - Allied Security Trust
 image: 'https://pbs.twimg.com/media/FYnDDpQaAAApkg5?format=png&name=4096x4096'
