@@ -39,8 +39,9 @@ description: >-
 
 ## Youtube Embed
 
-<p><iframe src="https://www.youtube.com/watch?v=_nXwrx4Qyz8" frameborder="10" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/watch?v=_nXwrx4Qyz8" frameborder="0" allowfullscreen></iframe></p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sa0m0qeX8dQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 🥬 NGUYÊN LIỆU 7 NGÀY  
 
