@@ -1,9 +1,9 @@
 ---
-title: ONE FARM
-date: 2021-11-05
+title: LUCKY SPIN
+date: 2021-12-05
 subtitle: Product Illustration
 description: Client - Allied Security Trust
-image: 'https://pbs.twimg.com/media/FYnDDpYaUAACUVT?format=png&name=4096x4096'
+image: 'hhttps://pbs.twimg.com/media/FYnDDpHaQAA6I7-?format=png&name=4096x4096'
 ---
 
 <!-- <div class="gallery-box">
@@ -16,10 +16,12 @@ image: 'https://pbs.twimg.com/media/FYnDDpYaUAACUVT?format=png&name=4096x4096'
 </div> -->
 
 Client: VinID <BR>
-Visual Designer: Ry Nguyen<BR>
-Product Designer: Nguyễn Thành Quang<BR>
+Visualizer: Ry Nguyen<BR>
+Product designer: Nguyễn Thành Quang<BR>
 UX Writer: Trang Lục<BR>
 
-Đây là 1 trong những concept gamification của App VinID mà mình tâm đắc nhất, vì được involde từ khâu lên ý tưởng cho tính năng, ý tưởng thể hiện & câu chuyện.
+Đây là 1 trong những concept gamification của App VinID<br>
+Concept may rủi thể hiện qua vòng quay may mắn<br>
+
 
 🔥 Chi tiết project : cập nhật sau
