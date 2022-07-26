@@ -18,7 +18,42 @@ description: >-
 
 để ăn sáng, trưa, tối luôn. Hồi trước mình siêng nấu 1 ngày 2 lần cơ, chưa kể sáng ra ngoài ăn sáng nữa. Nhưng đó là khi mình còn đi học, có thời gian rảnh rỗi. Còn bây giờ, thời gian quý như vàng vậy, thế nên 1 tuần mình chỉ đi chợ 1 lần, và mỗi ngày chỉ nấu ăn 1 lần, vì thế tiết kiệm luôn cả thời gian sơ chế và rửa chén. Tuy nhiên ăn vậy cũng ngao ngán thật đấy, mà may quá mình đã chấp nhận được sự thay đổi này sau một thời gian. Vì nó quá tiện, và đồ ăn thi vẫn được thay đổi mỗi ngày.
 
+## Images
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://images.unsplash.com/photo-1658777396008-4cca34f818c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
+    <img src="https://images.unsplash.com/photo-1658777396008-4cca34f818c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
+    <img src="https://images.unsplash.com/photo-1658777396008-4cca34f818c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
+    <img src="https://images.unsplash.com/photo-1658777396008-4cca34f818c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
+    <img src="https://images.unsplash.com/photo-1658777396008-4cca34f818c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
+    <img src="https://images.unsplash.com/photo-1658777396008-4cca34f818c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
+  </div>
+  <em>Ry / <a href="https://unsplash.com/" target="_blank">Chang</a></em>
+</div>
+
+![Caffe]({{site.baseurl}}/images/16.jpg)
+*Photo by [Matthew Henry](https://unsplash.com/photos/T-G9PVLOfOY) on Unsplash*
+
+***
+
+## Youtube Embed
+
+<p><iframe src="https://www.youtube.com/watch?v=_nXwrx4Qyz8" frameborder="10" allowfullscreen></iframe></p>
+
+
 ## 🥬 NGUYÊN LIỆU 7 NGÀY  
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://images.unsplash.com/photo-1658777396008-4cca34f818c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
+    <img src="https://images.unsplash.com/photo-1658777396008-4cca34f818c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
+    <img src="https://images.unsplash.com/photo-1658777396008-4cca34f818c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
+    <img src="https://images.unsplash.com/photo-1658777396008-4cca34f818c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
+  </div>
+  <em>Ry / <a href="https://unsplash.com/" target="_blank">Chang</a></em>
+</div>
+
 
 1. Thịt: Heo, bò, gà, cá hồng, mực, tôm 
 2. Đậu hũ 
