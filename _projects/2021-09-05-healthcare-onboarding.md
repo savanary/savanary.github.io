@@ -1,9 +1,9 @@
 ---
-title: LOYALTY APP ONBOARDING
+title: HEALTHCARE ONBOARDING
 date: 2021-09-05
 subtitle: Personal Project
 description: Client - Allied Security Trust
-image: 'https://pbs.twimg.com/media/FYnIEMZacAASr8y?format=jpg&name=large'
+image: 'https://pbs.twimg.com/media/FYnIEMMagAAOqau?format=jpg&name=large'
 ---
 
 <!-- <div class="gallery-box">
@@ -15,3 +15,8 @@ image: 'https://pbs.twimg.com/media/FYnIEMZacAASr8y?format=jpg&name=large'
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->
 
+Đây là dự án cá nhân mình đã trợ giúp người bạn của mình (UI Designer)<BR>
+Công việc của mình là vẽ minh hoạ cho 3 màn onboarding <BR>
+Cảm ơn Chang Duong về UI Design. <BR>
+
+👉 Mời mọi người xem chi tiết dự án [Basic Health](https://www.behance.net/gallery/87368333/Basic-Health) 
