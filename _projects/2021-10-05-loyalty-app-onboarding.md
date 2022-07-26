@@ -1,6 +1,6 @@
 ---
 title: LOYALTY APP ONBOARDING
-date: 2021-09-05
+date: 2015-09-05
 subtitle: Personal Project
 description: Client - Allied Security Trust
 image: 'https://pbs.twimg.com/media/FYnIEMZacAASr8y?format=jpg&name=large'
