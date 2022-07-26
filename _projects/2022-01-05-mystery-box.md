@@ -1,5 +1,5 @@
 ---
-title: MYSTERY BOX
+title: MYSTERY BOX GAME
 date: 2012-01-05
 subtitle: Product Illustration
 description: HỘP QUÀ MAY MẮN | VinID

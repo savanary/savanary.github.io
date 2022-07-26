@@ -1,5 +1,5 @@
 ---
-title: LUCKY SPIN
+title: LUCKY SPIN GAME
 date: 2013-12-05
 subtitle: Product Illustration
 description: VÒNG QUAY MAY MẮN | VinID
