@@ -15,13 +15,13 @@ image: 'https://pbs.twimg.com/media/FYnDDpQaAAApkg5?format=png&name=4096x4096'
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->
 
-- Client: *VinID* <BR>
-- Visualizer: *Ry Nguyen* & Team Marketing <BR>
-- Product Designer: *Nguyễn Thành Quang*<BR>
-- UX Writer: *Trang Lục* & Team Marketing
+- Client: **VinID** <BR>
+- Visualizer: **Ry Nguyễn** & Team Marketing <BR>
+- Product Designer: **Nguyễn Thành Quang**<BR>
+- UX Writer: **Trang Lục** & Team Marketing
 
 Đây là 1 trong những concept gamification của App VinID.<br>
 Concept may rủi thể hiện qua việc lựa các hộp quà để mở.<br>
 
 
-🔥 Chi tiết project: **Đang chờ cập nhật nha bạn ơi***.
+🔥 Chi tiết project: *Đang chờ cập nhật nha bạn ơi*.
