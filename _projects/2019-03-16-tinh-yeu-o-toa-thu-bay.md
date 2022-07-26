@@ -15,3 +15,9 @@ image: 'https://pbs.twimg.com/media/FYnJRvoaUAAaAxW?format=png&name=900x900'
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->
 
+Client: Nhà xuất bản Văn Hoá 
+Illustration & Design: Ry Nguyen
+
+---
+
+Mời bạn xem chi tiết dự án ở 💁‍♀️ [Behance](https://www.behance.net/gallery/77610807/Coverbook-Tinh-yeu-toa-th-by)
