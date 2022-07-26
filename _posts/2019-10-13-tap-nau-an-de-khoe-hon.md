@@ -1,6 +1,6 @@
 ---
-title: "TẬP NẤU ĂN ĐỂ KHOẺ HƠN"
-date: '2019-10-13'
+title: TẬP NẤU ĂN ĐỂ KHOẺ HƠN
+date: 2019-10-13
 layout: post
 tag: [lifestyle,tips]
 subtitle: Life style
