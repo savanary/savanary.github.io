@@ -15,6 +15,28 @@
             {% endif %}
           </div>
 
+<div class="row">
+    {% for project in site.projects reversed %}
+      <article class="project col col-4 col-d-6 col-t-12">
+        <div class="project__content">
+          <a href="{{ project.url }}" class="project__image">
+            <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
+          </a>
+          <div class="project__info">
+            <div class="project__info-wrap">
+              <h4 class="project__title">{{ project.title }}</h4>
+            </div>
+            <div class="project__info-wrap">
+              {% if project.subtitle %}
+                <div class="project__subtitle">{{ project.subtitle }}</div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+<!-- 
           <div class="row">
             {% for project in site.projects reversed limit:6 %}
             <article class="project col col-4 col-d-6 col-t-12">
@@ -36,7 +58,7 @@
             </article>
             {% endfor %}
           </div>
-
+-->
         </div>
       </div>
     </div>
