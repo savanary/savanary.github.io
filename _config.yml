@@ -15,6 +15,7 @@ plugins:
 
 paginate: 9
 paginate_path: "/blog/page/:num"
+paginate_path: "/blog/projects/:num"
 
 
 # Collections
