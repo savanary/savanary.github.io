@@ -1,10 +1,8 @@
 ---
 title: LUCKY SPIN
-date: 2021-12-05
-layout: post
-pin: true
+date: 2021-12-05s
 subtitle: Product Illustration
-description: Client - Allied Security Trust
+description: VÒNG QUAY MAY MẮN | VinID
 image: 'https://pbs.twimg.com/media/FYnDDpHaQAA6I7-?format=png&name=4096x4096'
 ---
 
@@ -17,13 +15,13 @@ image: 'https://pbs.twimg.com/media/FYnDDpHaQAA6I7-?format=png&name=4096x4096'
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->
 
-Client: VinID <BR>
-Visualizer: Ry Nguyen<BR>
-Product designer: Nguyễn Thành Quang<BR>
-UX Writer: Trang Lục<BR>
+- Client: *VinID* <BR>
+- Visualizer: *Ry Nguyễn*<BR>
+- Product Designer: *Nguyễn Thành Quang*<BR>
+- UX Writer: *Trang Lục*<BR>
 
-Đây là 1 trong những concept gamification của App VinID<br>
-Concept may rủi thể hiện qua vòng quay may mắn<br>
+Đây là 1 trong những concept gamification của App VinID.<br>
+Concept may rủi thể hiện qua vòng quay may mắn.<br>
 
 
-🔥 Chi tiết project : cập nhật sau
+🔥 Chi tiết project: **Đang chờ cập nhật nha bạn ơi**.
