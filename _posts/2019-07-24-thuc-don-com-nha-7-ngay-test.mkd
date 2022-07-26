@@ -1,17 +1,4 @@
 ---
-title: "THỰC ĐƠN CƠM NHÀ 7 NGÀY"
-date: '2019-07-23'
-layout: post
-tag: [lifestyle,tips]
-subtitle: Life style
-image: 'https://pbs.twimg.com/media/FYjPqBpaQAAyFWe?format=jpg&name=900x900'
-excerpt: >-
-Nếu mà bạn là người cũng bận rộn, nhưng chán cảnh ăn ở ngoài, muốn tự nấu ăn, thì tham khảo thực đơn 7 ngày ở trên của mình nha. Hy vọng có thể tiếp động lực cùng mang cơm đi làm như mình nè.
-description: >-
-Nếu mà bạn là người cũng bận rộn, nhưng chán cảnh ăn ở ngoài, muốn tự nấu ăn, thì tham khảo thực đơn 7 ngày ở trên của mình nha. Hy vọng có thể tiếp động lực cùng mang cơm đi làm như mình nè.
-
-thumb_image: ''
-
 title: THỰC ĐƠN CƠM NHÀ 7 NGÀY
 date: 2019-07-23
 layout: post
