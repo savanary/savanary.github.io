@@ -1,6 +1,8 @@
 ---
 title: LUCKY SPIN
 date: 2021-12-05
+layout: post
+pin: true
 subtitle: Product Illustration
 description: Client - Allied Security Trust
 image: 'https://pbs.twimg.com/media/FYnDDpHaQAA6I7-?format=png&name=4096x4096'
