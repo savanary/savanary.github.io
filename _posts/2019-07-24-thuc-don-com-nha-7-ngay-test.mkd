@@ -1,16 +1,28 @@
 ---
-title: THỰC ĐƠN CƠM NHÀ 7 NGÀY
-date: 2019-07-23
+title: "THỰC ĐƠN CƠM NHÀ 7 NGÀY"
+date: '2019-07-23'
 layout: post
 tag: [lifestyle,tips]
 subtitle: Life style
-image: 'https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80'
+image: 'https://pbs.twimg.com/media/FYjPqBpaQAAyFWe?format=jpg&name=900x900'
 excerpt: >-
 Nếu mà bạn là người cũng bận rộn, nhưng chán cảnh ăn ở ngoài, muốn tự nấu ăn, thì tham khảo thực đơn 7 ngày ở trên của mình nha. Hy vọng có thể tiếp động lực cùng mang cơm đi làm như mình nè.
 description: >-
 Nếu mà bạn là người cũng bận rộn, nhưng chán cảnh ăn ở ngoài, muốn tự nấu ăn, thì tham khảo thực đơn 7 ngày ở trên của mình nha. Hy vọng có thể tiếp động lực cùng mang cơm đi làm như mình nè.
 
-thumb_image: 'https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80'
+thumb_image: ''
+
+title: THỰC ĐƠN CƠM NHÀ 7 NGÀY
+date: 2019-07-23
+layout: post
+tag: [lifestyle,tips]
+subtitle: Life style
+image: 'https://pbs.twimg.com/media/FYjPqBpaQAAyFWe?format=jpg&name=900x900'
+thumb_image: 'https://pbs.twimg.com/media/FYjPqBpaQAAyFWe?format=jpg&name=900x900'
+excerpt: >-
+  Nếu mà bạn là người cũng bận rộn, nhưng chán cảnh ăn ở ngoài, muốn tự nấu ăn, thì tham khảo thực đơn 7 ngày ở trên của mình nha. Hy vọng có thể tiếp động lực cùng mang cơm đi làm như mình nè.
+description: >-
+  Nếu mà bạn là người cũng bận rộn, nhưng chán cảnh ăn ở ngoài, muốn tự nấu ăn, thì tham khảo thực đơn 7 ngày ở trên của mình nha. Hy vọng có thể tiếp động lực cùng mang cơm đi làm như mình nè.
 ---
 
 Đồng nghiệp thấy mình mang cơm đi làm mỗi ngày là một món khác nhau, chắc nghĩ mình có nhiều thời gian và siêng năng nấu ăn.
@@ -44,14 +56,14 @@ Thịt nạc mua từ chợ về cần được rửa với nước muối. Kho 
 Mẹ mình dạy là thịt heo phải chần qua nước sôi trước khi nấu, bỏ đi phần nước đầu, để cho sạch ấy mà. Sau đó mới ướp gia vị rồi đem kho.
 Thịt heo mình hay kho với hành tím, gia vị như muối, bột nêm, nước mắm, hạt tiêu, một tí nước màu và hạn chế dùng dầu ăn. Mỡ từ thịt tiết ra đã đủ rồi nên mình chỉ kho chung với nước lọc mà bỏ qua dầu ăn.
 
-![Thứ 2](https://images.unsplash.com/photo-1560963689-b9e9773ff232?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2300&q=80)
+![Thứ 2](https://pbs.twimg.com/media/FYjPYluaIAMgFfe?format=jpg&name=900x900v)
 
 
 ### Thứ 3:
 
 Cơm cuộn gạo lứt rong biển thì hơi cực lúc chế biến vì nhiều nguyên liệu. Cà rốt luộc thái sợi nè, dưa leo rửa sạch cắt sợi, trứng chiên thái sơị, tôm luộc chẻ đôi. Lỉnh kỉnh thế chứ làm cũng không mất thời gian lắm đâu.
 
-![Thứ 3](https://images.unsplash.com/photo-1464306208223-e0b4495a5553?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80)
+![Thứ 3](https://pbs.twimg.com/media/FYjPYluaIAAvDvw?format=jpg&name=900x900)
 
 
 ### Thứ 4 :
@@ -59,7 +71,7 @@ Cơm cuộn gạo lứt rong biển thì hơi cực lúc chế biến vì nhiề
 Cà rốt sót lại của ngày hôm qua làm cơm cuộn, đem trưng dụng để làm rau củ luộc cho bữa trưa hôm sau thì quả là tiện luôn.
 Mình từng mua đậu hũ ở các siêu thị, cửa hàng bách hoá xanh, chợ, thì cuối cùng vẫn mê mệt đậu hũ tươi bán ở chợ đặc biệt là các hàng làm đậu hũ tại chỗ ý, nó mới núng na núng nính và tươi ngon làm sao. Đậu hũ siêu thị dù có bao bì đẹp,  giá cao và 1 chiếc hạn sử dụng có xa bao nhiêu thì cũng không sánh nổi nha
 
-![Thứ 4](https://images.unsplash.com/photo-1495214783159-3503fd1b572d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80)
+![Thứ 4](https://pbs.twimg.com/media/FYjPYlkaIAApkFD?format=jpg&name=900x900)
 
 
 ### Thứ 5 :
@@ -68,7 +80,7 @@ Cà chua chính xác là chân ái của tủ lạnh và các món ăn mỗi ng�
 
 Để không chán thì cứ ngày ăn thịt, ngày ăn chay, ngày ăn hải sản, xen kẽ nhau mà quất thôi nè.
 
-![Thứ 5](https://images.unsplash.com/photo-1490818387583-1baba5e638af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80)
+![Thứ 5](https://pbs.twimg.com/media/FYjPYljaIAELvaK?format=jpg&name=900x900)
 
 
 ### Thứ 6:
@@ -76,7 +88,7 @@ Cà chua chính xác là chân ái của tủ lạnh và các món ăn mỗi ng�
 Dưa Leo muối:
 Dưa Leo rửa sach, ngâm muối. Cắt lát 1-2 trái dưa leo, càng dày thì cắn càng giòn nha. Rồi sóc với muối mì tôm, nặn thêm chanh, bảo quản trong tủ lạnh để giữ độ giòn
 
-![Thứ 6](https://lh3.google.com/pw/AM-JKLWvJEUTumyleAGhNoNxA8-BEksHKwQPO3oJTcocVpogTJurdKfpf8ciFjhr15cyLEudgZAWD62d-InKCmylO7ampuDPDBg=w720-h540-no?authuser=0)
+![Thứ 6](https://pbs.twimg.com/media/FYjPqBeaQAAJoAm?format=jpg&name=900x900)
 
 
 ### Thứ 7:
@@ -84,14 +96,14 @@ Dưa Leo rửa sach, ngâm muối. Cắt lát 1-2 trái dưa leo, càng dày th�
 Típ luộc rau đậm đà:
 Nêm muối khi đun sôi nước và sau khi cho rau vào nồi thì nêm thêm tí bột nêm.
 
-![Thứ 7](https://lh3.google.com/pw/AM-JKLXASzLtqQ1SiGg0Xtoq8SS1JKAEshqVF5aWcRY62zkP-M6fFeEteasoV5mMulHUMtJSzECJcxgT8ppvQ1LDxnEXb6u6ABE=w720-h540-no?authuser=0)
+![Thứ 7](https://pbs.twimg.com/media/FYjPqBpaQAAyFWe?format=jpg&name=900x900)
 
 
 ### Chủ nhật:
 
 Tôm và thịt bằm là hai loại mình hay sử dụng để nấu canh nhất. Nấu canh gì cũng được luôn. Siêu dễ mua, siêu dễ chế biến, đỡ phải nghĩ nhiều.
 
-![Chủ nhật](https://lh3.google.com/pw/AM-JKLW_6wxgk-ZYBrYGNLbc7fBIN8rHNcTrn_xUl70Um0fc75UemXCcKEwJ5F22rBjEzKdh4IPIOzY5n0i_YetXXe75BUIw8v4=w720-h540-no?authuser=0)
+![Chủ nhật](https://pbs.twimg.com/media/FYjPqBeaQAIuvM9?format=jpg&name=900x900)
 
 
 ## ⏳ TIPS TIẾT KIỆM THỜI GIAN
