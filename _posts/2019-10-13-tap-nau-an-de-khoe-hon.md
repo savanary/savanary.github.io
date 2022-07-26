@@ -1,11 +1,11 @@
 ---
-title: "TẬP NẤU ĂN ĐỂ KHOẺ HƠN"
-date: '2019-10-13'
+title: TẬP NẤU ĂN ĐỂ KHOẺ HƠN
+date: 2019-10-13
 layout: post
 tag: [lifestyle,tips]
 subtitle: Life style
-image: 'https://lh3.google.com/pw/AM-JKLV4lpKm6zB33Q7BHVKm5EDQeekD4RPMMaq_RH_1-_xVJO7SNSk58fpG6PEXDWT9NpBFX_AlB-lU8plz_JCPiatgLF0NYQk=w720-h762-no?authuser=0'
-thumb_image: 'https://lh3.google.com/pw/AM-JKLV4lpKm6zB33Q7BHVKm5EDQeekD4RPMMaq_RH_1-_xVJO7SNSk58fpG6PEXDWT9NpBFX_AlB-lU8plz_JCPiatgLF0NYQk=w720-h762-no?authuser=0'
+image: 'https://pbs.twimg.com/media/FYjS7rZagAAY8dA?format=jpg&name=large'
+thumb_image: 'https://pbs.twimg.com/media/FYjS7rZagAAY8dA?format=jpg&name=large'
 excerpt: >-
 Điều này làm mình chủ động hơn về thời gian biểu và bản thân mình biết mình đang nạp những thứ gì vào người, có sạch hay không, có đủ chất hay chưa, và cả cân bằng được túi tiền nữa. 
 description: >-
