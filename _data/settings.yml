@@ -33,7 +33,7 @@ cta__button__text: Inbox me
 cta__button_url: 'https://m.me/Saigonvanang'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
-cover__image: 'https://i.imgur.com/MkaBAt0.jpeg'
+cover__image: '/images/home_bg.jpeg'
 
 
 #-------------------------------
@@ -47,8 +47,8 @@ author:
     An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK. Feel free to snoop around on my SOCIAL MEDIA or inquiries or a how you doing CONTACT ME.
 I will be happy to hear from you. 🧑🏻‍🎨
     "
-  image: 'https://i.imgur.com/MkaBAt0.jpeg'
-  avatar: 'https://i.imgur.com/MkaBAt0.jpeg'
+  image: '/images/home_avatar.jpeg'
+  avatar: '/images/home_bg.jpeg'
   button__text: See my work
 
 
@@ -69,12 +69,12 @@ testimonial__title: My Happy <span class="text-span">Teammates & Clients</span> 
 
 testimonial-items:
   - name: "Chang Duong"
-    image: "https://i.imgur.com/MkaBAt0.jpeg"
+    image: "/images/home_chang.jpeg"
     designation : "Graphic Designer @ Sky Corp."
     content : "Ry Nguyen is my best partner ever. Ry Nguyen is my best partner ever."
 
   - name: "Hoang Dang"
-    image: "https://i.imgur.com/MkaBAt0.jpeg"
+    image: "/images/home_dang.jpeg"
     designation : "Product Manager @ OMC"
     content : "I am very proud of Ry, cause of her creative and contribution for team!"
 

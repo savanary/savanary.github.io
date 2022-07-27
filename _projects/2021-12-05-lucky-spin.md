@@ -1,6 +1,6 @@
 ---
 title: LUCKY SPIN
-date: 2013-12-05
+date: 2021-12-05
 subtitle: Product Illustration
 description: VÒNG QUAY MAY MẮN | VinID
 image: 'https://pbs.twimg.com/media/FYnDDpHaQAA6I7-?format=png&name=4096x4096'
