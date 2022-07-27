@@ -2,6 +2,7 @@
 title: THỰC ĐƠN CƠM NHÀ 7 NGÀY
 date: 2022-07-10
 layout: post
+comments: true
 tag: [lifestyle,tips]
 subtitle: Life style
 image: 'https://pbs.twimg.com/media/FYjPqBpaQAAyFWe?format=jpg&name=900x900'
