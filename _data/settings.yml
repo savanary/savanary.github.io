@@ -71,7 +71,7 @@ testimonial-items:
   - name: "Chang Duong"
     image: "/images/home_chang.jpeg"
     designation : "UI Designer @ Gofit"
-    content : "Ry has a friendly personality so very easy to brainstorm while working with. She is my best partner ever. "
+    content : "Ry has a friendly personality so very easy to brainstorm while working with. We talk like soulmates. She is my best partner ever. "
 
   - name: "Hoang Dang"
     image: "/images/home_dang.jpeg"
@@ -79,7 +79,7 @@ testimonial-items:
     content : "I am so proud of Ry - one of the key members, because of her creation and contribution to our products & teams."
 
   - name: "Circus Squad"
-    image: "/images/home_danh.jpg"
+    image: "/images/home_danh.jpeg"
     designation : "Art Director @ Ogilvy"
     content : "Nhung is the artist/visualizer I'd like to work with because she's very good in terms of skills and well understanding."
 
