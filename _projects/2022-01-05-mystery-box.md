@@ -3,6 +3,7 @@ title: MYSTERY BOX GAME
 date: 2022-01-05
 subtitle: Product Illustration
 description: HỘP QUÀ MAY MẮN | VinID
+comments: true
 image: 'https://pbs.twimg.com/media/FYnDDpQaAAApkg5?format=png&name=4096x4096'
 ---
 
