@@ -120,7 +120,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: # add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: https-rychan-vn# add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
