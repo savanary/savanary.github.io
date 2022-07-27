@@ -17,7 +17,7 @@ image: '/images/portfolio/book.jpg'
 
 <div class="container animate">
   <div class="row">
-    {% for project in site.projects reversed %}
+    {% for project in site.projects data-order-by reversed_time %}
       <article class="project col col-4 col-d-6 col-t-12">
         <div class="project__content">
           <a href="{{ project.url }}" class="project__image">
