@@ -94,7 +94,7 @@ testimonial-items:
 
 blog__settings:
   blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
-  blog__description: Nơi mình lưu giữ những năm tháng tuổi trẻ (và cả khi chưa trẻ). 🙋🏻
+  blog__description: Nơi mình lưu giữ những năm tháng tuổi trẻ. 🙋🏻
 
 #-------------------------------
 # Contact Settings
