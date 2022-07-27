@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My works
-description: Tất tần tật những dự án, những sản phẩm mình đã từng tham gia. Và cả tri ân những người đồng đội đã cùng mình tạo nên thành quả này. Cùng xem nha. 👇🏻
+description: Whether you need a personal website or a fully featured web app, I can help you meet your business needs.
 image: '/images/portfolio/book.jpg'
 ---
 <div class="container">
@@ -17,7 +17,7 @@ image: '/images/portfolio/book.jpg'
 
 <div class="container animate">
   <div class="row">
-    {% for project in site.projects %}
+    {% for project in site.projects reversed %}
       <article class="project col col-4 col-d-6 col-t-12">
         <div class="project__content">
           <a href="{{ project.url }}" class="project__image">
