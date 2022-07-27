@@ -16,7 +16,7 @@ Let's get in touch! ✨
 
 ___
 Contact me via 🧑🏻‍🎨:
-- Facebook: **[Ry Nguyen](https://www.facebook.com/RyNguyen20) **
+- Facebook: **[Ry Nguyen](https://www.facebook.com/RyNguyen20)**
 - Fanpage: **[Sà Và Ná](https://www.facebook.com/Saigonvanang)**
 - Youtube: **[RyChanHome](youtube.com/c/rychanhome)**
 - Behance: **[Ry Nguyen](https://www.behance.net/rynguyen)**
