@@ -1,9 +1,10 @@
 ---
-title: LOYALTY APP ONBOARDING
-date: 2021-10-05
-subtitle: Personal Project
-description: Client - Allied Security Trust
-image: 'https://pbs.twimg.com/media/FYnIEMZacAASr8y?format=jpg&name=large'
+title: MYSTERY BOX GAME
+date: 2022-07-27
+subtitle: Product Illustration
+description: HỘP QUÀ MAY MẮN | VinID
+comments: true
+image: 'https://pbs.twimg.com/media/FYnDDpQaAAApkg5?format=png&name=4096x4096'
 ---
 
 <!-- <div class="gallery-box">
@@ -15,3 +16,13 @@ image: 'https://pbs.twimg.com/media/FYnIEMZacAASr8y?format=jpg&name=large'
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->
 
+- Client: **VinID** <BR>
+- Visualizer: **Ry Nguyễn** <BR>
+- Product Designer: **Nguyễn Thành Quang**<BR>
+- UX Writer: **Trang Lục** 
+
+Đây là 1 trong những concept gamification của App VinID.<br>
+Concept may rủi thể hiện qua việc chọn lựa các hộp quà để mở.<br>
+
+
+🔥 Chi tiết project: *Đang chờ cập nhật nha bạn ơi* 😚

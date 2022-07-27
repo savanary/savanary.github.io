@@ -1,9 +1,9 @@
 ---
-title: ONE FARM GAME
-date: 2021-11-05
-subtitle: Product Illustration
+title: HEALTHCARE ONBOARDING
+date: 2022-07-20
+subtitle: Personal Project
 description: Client - Allied Security Trust
-image: 'https://pbs.twimg.com/media/FYnDDpYaUAACUVT?format=png&name=4096x4096'
+image: 'https://pbs.twimg.com/media/FYnIEMMagAAOqau?format=jpg&name=large'
 ---
 
 <!-- <div class="gallery-box">
@@ -15,11 +15,8 @@ image: 'https://pbs.twimg.com/media/FYnDDpYaUAACUVT?format=png&name=4096x4096'
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->
 
-Client: *VinID* <BR>
-Visual Designer: *Ry Nguyễn*<BR>
-Product Designer: *Nguyễn Thành Quang*<BR>
-UX Writer: *Trang Lục*<BR>
+Đây là dự án cá nhân mình đã trợ giúp người bạn của mình (UI Designer)<BR>
+Công việc của mình là vẽ minh hoạ cho 3 màn onboarding <BR>
+Cảm ơn Chang Duong về UI Design. <BR>
 
-Đây là 1 trong những concept gamification của App VinID mà mình tâm đắc nhất, vì được involde từ khâu lên ý tưởng cho tính năng, ý tưởng thể hiện & câu chuyện.
-
-🔥 Chi tiết project: **Đã có plan cập nhật nhưng mà giờ phải deliver content cho kịp chuyến đò golive** 🥲. 
+👉 Mời mọi người xem chi tiết dự án [Basic Health](https://www.behance.net/gallery/87368333/Basic-Health) 
