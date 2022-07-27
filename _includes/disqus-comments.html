@@ -1,4 +1,38 @@
 <!-- begin comments -->
+
+
+<div class="show-comments">
+  <button class="disqus-button button" id="show-comments-button" onclick="disqus();return false;">Comment</button>
+</div>
+
+
+<div class="post__comments" id="disqus_thread"></div>
+
+
+<script>
+  var disqus_loaded = false;
+  var disqus_shortname = '{{ site.disqus-identifier }}';
+  function disqus() {
+    if (!disqus_loaded) {
+      disqus_loaded = true;
+      var e = document.createElement("script");
+      e.type = "text/javascript";
+      e.async = true;
+      e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+      (document.getElementsByTagName("head")[0] ||
+        document.getElementsByTagName("body")[0])
+        .appendChild(e);
+      // Hide the button after opening
+      document.getElementById("show-comments-button").style.display = "none";
+    }
+  }
+</script>
+<noscript>Please enable JavaScript to view the
+  <a href="https://disqus.com/?ref_noscript">comments powered by RyChan.</a>
+</noscript>
+
+
+<!-- begin
 <div class="container">
   <div class="row">
     <div class="col col-12">
@@ -10,7 +44,6 @@
     </div>
   </div>
 </div>
-
 <script>
   function load_disqus() {
     var disqus_shortname = '{{ site.data.settings.disqus-identifier }}',
@@ -41,4 +74,5 @@
 <noscript>Please enable JavaScript to view the
   <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
 </noscript>
+-->
 <!-- end comments -->
