@@ -17,7 +17,7 @@ image: 'https://pbs.twimg.com/media/FYnDDpQaAAApkg5?format=png&name=4096x4096'
 </div> -->
 
 - Client: **VinID** <BR>
-- Visualizer: **Ry Nguyễn** & Team Marketing <BR>
+- Visualizer: **Ry Nguyễn** <BR>
 - Product Designer: **Nguyễn Thành Quang**<BR>
 - UX Writer: **Trang Lục** & Team Marketing
 
@@ -25,4 +25,4 @@ image: 'https://pbs.twimg.com/media/FYnDDpQaAAApkg5?format=png&name=4096x4096'
 Concept may rủi thể hiện qua việc lựa các hộp quà để mở.<br>
 
 
-🔥 Chi tiết project: *Đang chờ cập nhật nha bạn ơi*.
+🔥 Chi tiết project: *Đang chờ cập nhật nha bạn ơi* 😚
