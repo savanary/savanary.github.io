@@ -58,7 +58,7 @@ I will be happy to hear from you. 🧑🏻‍🎨
 projects__settings:
   projects__title: Latest <span class="text-span">Work</span> # Add a 'text-span' class to highlight text.
   projects__description: "
-    An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK.
+    Tất tần tật những dự án, những sản phẩm mình đã từng tham gia. Và cả tri ân những người đồng đội đã cùng mình tạo nên thành quả này. Cùng xem nha. 🙌🏻
     "
 
 
@@ -94,8 +94,7 @@ testimonial-items:
 
 blog__settings:
   blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
-  blog__description: An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORKs.
-
+  blog__description: Nơi mình lưu giữ những năm tháng tuổi trẻ (và cả khi chưa trẻ). 🙋🏻
 
 #-------------------------------
 # Contact Settings
