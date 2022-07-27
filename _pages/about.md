@@ -20,4 +20,4 @@ Contact me via 🧑🏻‍🎨:
 - Fanpage: **[Sà Và Ná](https://www.facebook.com/Saigonvanang)**
 - Youtube: **[RyChanHome](youtube.com/c/rychanhome)**
 - Behance: **[Ry Nguyen](https://www.behance.net/rynguyen)**
-- Dribble: **[Ry Nguyen](https://dribbble.com/RyNguyen)**
+- Dribbble: **[Ry Nguyen](https://dribbble.com/RyNguyen)**

@@ -76,10 +76,10 @@ testimonial-items:
   - name: "Hoang Dang"
     image: "/images/home_dang.jpeg"
     designation : "Product Manager @ One Mount"
-    content : "I am so proud of Ry - one of the key members, because of her creation and contribution to our products & teams."
+    content : "I am so proud of Ry - key member of my team, for her creation and dedication to our products & organization."
 
-  - name: "Circus Squad"
-    image: "/images/home_danh.jpeg"
+  - name: "Danh Chau"
+    image: "https://pbs.twimg.com/media/FYrilOrakAAae2N?format=jpg&name=large"
     designation : "Art Director @ Ogilvy"
     content : "Nhung is the artist/visualizer I'd like to work with because she's very good in terms of skills and well understanding."
 
