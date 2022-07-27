@@ -70,18 +70,18 @@ testimonial__title: My Happy <span class="text-span">Teammates & Clients</span> 
 testimonial-items:
   - name: "Chang Duong"
     image: "/images/home_chang.jpeg"
-    designation : "Graphic Designer @ Sky Corp."
-    content : "Ry Nguyen is my best partner ever. Ry Nguyen is my best partner ever."
+    designation : "UI Designer @ Gofit"
+    content : "Ry has a friendly personality so very easy to brainstorm while working with. She is my best partner ever. "
 
   - name: "Hoang Dang"
     image: "/images/home_dang.jpeg"
-    designation : "Product Manager @ OMC"
-    content : "I am so proud of Ry, cause of her creation and contribution for team!"
+    designation : "Product Manager @ One Mount"
+    content : "I am so proud of Ry - one of the key members, because of her creation and contribution to our products & teams."
 
   - name: "Circus Squad"
-    image: "https://i.imgur.com/MkaBAt0.jpeg"
-    designation : "Loyalty Product @ OMC"
-    content : "She is our big-sister at company. She is our big-sister at company."
+    image: "/images/home_danh.jpg"
+    designation : "Art Director @ Ogilvy"
+    content : "Nhung is the artist/visualizer I'd like to work with because she's very good in terms of skills and well understanding."
 
   # - name: "Julie Arnold"
   #   image: "/images/client-4.jpg"
