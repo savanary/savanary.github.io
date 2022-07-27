@@ -15,7 +15,7 @@
             {% endif %}
           </div>
           <div class="row">
-            {% for project in site.projects %}
+            {% for project in site.projects reversed %}
             <article class="project col col-4 col-d-6 col-t-12">
               <div class="project__content">
                 <a href="{{ project.url }}" class="project__image">
