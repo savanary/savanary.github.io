@@ -4,6 +4,7 @@ date: 2022-07-16
 layout: post
 tag: [lifestyle,tips]
 subtitle: Travel
+comments: true
 image: 'https://pbs.twimg.com/media/FYjS7rZagAAY8dA?format=jpg&name=large'
 thumb_image: 'https://pbs.twimg.com/media/FYjS7rZagAAY8dA?format=jpg&name=large'
 excerpt: >-

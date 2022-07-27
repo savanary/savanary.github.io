@@ -44,7 +44,7 @@ author:
   title: Hi, I’m RY / NHUNG NGUYEN
   # bio: Art Director & Graphic Designer based in Ho Chi Minh City
   bio: "
-    An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK. Feel free to snoop around on my SOCIAL MEDIA or inquiries or a how you doing CONTACT ME.
+    An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK. Feel free to snoop around on my SOCIAL MEDIA or CONTACT ME.
 I will be happy to hear from you. 🧑🏻‍🎨
     "
   image: '/images/home_avatar.jpeg'
@@ -58,7 +58,7 @@ I will be happy to hear from you. 🧑🏻‍🎨
 projects__settings:
   projects__title: Latest <span class="text-span">Work</span> # Add a 'text-span' class to highlight text.
   projects__description: "
-    An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK.
+    Tất tần tật những dự án, những sản phẩm mình đã từng tham gia. Và cả tri ân những người đồng đội đã cùng mình tạo nên thành quả này. Cùng xem nha. 🙌🏻
     "
 
 
@@ -76,7 +76,7 @@ testimonial-items:
   - name: "Hoang Dang"
     image: "/images/home_dang.jpeg"
     designation : "Product Manager @ OMC"
-    content : "I am very proud of Ry, cause of her creative and contribution for team!"
+    content : "I am so proud of Ry, cause of her creation and contribution for team!"
 
   - name: "Circus Squad"
     image: "https://i.imgur.com/MkaBAt0.jpeg"
@@ -94,8 +94,7 @@ testimonial-items:
 
 blog__settings:
   blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
-  blog__description: An illustrator based in Saigon, Vietnam. Here you can see some of my latest WORK.
-
+  blog__description: Nơi mình lưu giữ những năm tháng tuổi trẻ (và cả khi chưa trẻ). 🙋🏻
 
 #-------------------------------
 # Contact Settings
@@ -120,7 +119,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: # add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: https-rychan-vn# add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------

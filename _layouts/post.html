@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <div class="container">
@@ -44,16 +45,9 @@ layout: default
       {%include share.html %}
     </div>
 
-<!-- Facebook Like -->
-<div class="fb-like" data-href="https://rychan.vn/" data-width="" data-layout="standard" data-action="like" data-size="large" data-share="true"></div>
-
     <div class="post__content">
       {{ content }}
     </div>
-
-<!-- Facebook Comment -->
-<div class="fb-comments" data-href="http://rychan.vn/" data-width="" data-numposts="5"></div>
-<meta property="fb:admins" content="&#123;4615535018496256&#125;"/>
 
     {% include post-navigation.html %}
 
@@ -64,5 +58,27 @@ layout: default
 {% include related-posts.html %}
 
 {% if site.data.settings.disqus-identifier %}
+
+<!-- Disqus -->
+<div id="disqus_thread"></div>
+<script>
+<!--    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /* -->
+    var disqus_config = function () {
+    this.page.url = '{{content.absolute_url}}';
+    this.page.identifier = '{{content_id}}';
+    };
+  
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-rychan-vn.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
   {% include disqus-comments.html %} 
 {% endif %}
