@@ -1,14 +1,9 @@
 ---
-<<<<<<< HEAD
-title: LUCKY SPIN
-date: 2021-12-05
-=======
-title: LUCKY SPIN GAME
-date: 2013-12-05
->>>>>>> 75d8162b35354d6762d11ab5bffd7d0e2b0f5ddf
+title: MYSTERY BOX GAME
+date: 2022-01-05
 subtitle: Product Illustration
-description: VÒNG QUAY MAY MẮN | VinID
-image: 'https://pbs.twimg.com/media/FYnDDpHaQAA6I7-?format=png&name=4096x4096'
+description: HỘP QUÀ MAY MẮN | VinID
+image: 'https://pbs.twimg.com/media/FYnDDpQaAAApkg5?format=png&name=4096x4096'
 ---
 
 <!-- <div class="gallery-box">
@@ -21,12 +16,12 @@ image: 'https://pbs.twimg.com/media/FYnDDpHaQAA6I7-?format=png&name=4096x4096'
 </div> -->
 
 - Client: **VinID** <BR>
-- Visualizer: **Ry Nguyễn**<BR>
+- Visualizer: **Ry Nguyễn** & Team Marketing <BR>
 - Product Designer: **Nguyễn Thành Quang**<BR>
-- UX Writer: **Trang Lục**<BR>
+- UX Writer: **Trang Lục** & Team Marketing
 
 Đây là 1 trong những concept gamification của App VinID.<br>
-Concept may rủi thể hiện qua vòng quay may mắn.<br>
+Concept may rủi thể hiện qua việc lựa các hộp quà để mở.<br>
 
 
 🔥 Chi tiết project: *Đang chờ cập nhật nha bạn ơi*.
