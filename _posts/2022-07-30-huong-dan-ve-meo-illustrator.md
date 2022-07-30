@@ -34,6 +34,6 @@ Còn bí nữa thì hãy nhắn liền cho tui ở phần comment nhé.<br>
 
 ![hình](https://pbs.twimg.com/media/FY5u_HhaUAAvsDb?format=jpg&name=large)
 
-https://www.youtube.com/watch?v=cZ52zYqKVrM&t=156s
+<p><iframe src="https://www.youtube.com/embed/cZ52zYqKVrM" title="YouTube video player" frameborder="0" allowfullscreen></iframe></p>
 
 
