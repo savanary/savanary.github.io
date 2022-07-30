@@ -24,7 +24,7 @@ description: >-
 **Effect > Warp > Inflate** Bẻ cong đối tượng theo nhiều lựa chọn, Inflate là thổi phồng<br>   
 **Transform > Reflect** Lật đối xứng ngang / dọc<br>   
 
-## File thực hành 😻
+## 2. File thực hành 😻
 
 Bạn yêu tải file AI này để thực hành nhé.<br>   
 Trong file đây tui có đầy đủ layer để bạn yêu tự khám phá nếu làm bí chỗ nào nhé,<br>   
@@ -34,5 +34,5 @@ Còn bí nữa thì hãy nhắn liền cho tui ở phần comment nhé.<br>
 
 ![hình](https://pbs.twimg.com/media/FY5u_HhaUAAvsDb?format=jpg&name=large)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R1VygGXDXFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/R1VygGXDXFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
