@@ -14,7 +14,7 @@ description: >-
   Ứng dụng cắt ghép và vẽ hình cơ bản bằng Illustratior
 ---
 
-## Các tools sử dụng 
+## 1. Các tools sử dụng. 😽
 
 **Pathfinder** Gộp nhanh các shapes, cắt xén, chồng chéo<br>   
 **Shape Builder** Cắt dán nhanh lẹ các shape chồng chéo, cận kề<br>   
@@ -24,7 +24,7 @@ description: >-
 **Effect > Warp > Inflate** Bẻ cong đối tượng theo nhiều lựa chọn, Inflate là thổi phồng<br>   
 **Transform > Reflect** Lật đối xứng ngang / dọc<br>   
 
-## File thực hành
+## File thực hành 😻
 
 Bạn yêu tải file AI này để thực hành nhé.<br>   
 Trong file đây tui có đầy đủ layer để bạn yêu tự khám phá nếu làm bí chỗ nào nhé,<br>   
@@ -34,5 +34,6 @@ Còn bí nữa thì hãy nhắn liền cho tui ở phần comment nhé.<br>
 
 ![hình](https://pbs.twimg.com/media/FY5u_HhaUAAvsDb?format=jpg&name=large)
 
-<p><iframe src="<iframe width="560" height="315" src="https://www.youtube.com/embed/cZ52zYqKVrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/watch?v=cZ52zYqKVrM&t=156s" frameborder="0" allowfullscreen></iframe></p>
+
 
