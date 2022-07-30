@@ -34,5 +34,5 @@ Còn bí nữa thì hãy nhắn liền cho tui ở phần comment nhé.<br>
 
 ![hình](https://pbs.twimg.com/media/FY5u_HhaUAAvsDb?format=jpg&name=large)
 
-<p><iframe src="https://youtu.be/cZ52zYqKVrM" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="<iframe width="560" height="315" src="https://www.youtube.com/embed/cZ52zYqKVrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe></p>
 
