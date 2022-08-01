@@ -8,10 +8,10 @@ subtitle: Tutorial
 image: 'https://pbs.twimg.com/media/FY5tCKeaMAEznhf?format=jpg&name=medium'
 thumb_image: 'https://pbs.twimg.com/media/FY5tCKeaMAEznhf?format=jpg&name=medium'
 excerpt: >-
-  Ứng dụng cắt ghép và vẽ hình cơ bản bằng Illustratior
+  Ứng dụng cắt ghép và vẽ hình cơ bản bằng Adobe Illustrator
 
 description: >-
-  Ứng dụng cắt ghép và vẽ hình cơ bản bằng Illustratior
+  Ứng dụng cắt ghép và vẽ hình cơ bản bằng Adobe Illustrator
 ---
 
 ## 1. Các tools sử dụng. 😽
