@@ -36,6 +36,3 @@ Còn bí nữa thì hãy nhắn liền cho tui ở phần comment nhé.<br>
 
 <iframe width="1920" height="1080" src="https://www.youtube.com/embed/R1VygGXDXFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p><iframe src="https://www.youtube.com/embed/R1VygGXDXFA" frameborder="0" allowfullscreen></iframe></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R1VygGXDXFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
