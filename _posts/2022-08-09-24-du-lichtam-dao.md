@@ -25,5 +25,3 @@ Thị trấn mà mây ngay dưới chân mình
 ![Frame5](https://pbs.twimg.com/media/FaIlHQOaQAAJWw8?format=jpg&name=4096x4096)
 
 ![Frame6](https://pbs.twimg.com/media/FaIlHQoaUAAVh9A?format=jpg&name=large)
-
-![Frame7](https://pbs.twimg.com/media/FaImFZnacAA1Wb3?format=jpg&name=large)
