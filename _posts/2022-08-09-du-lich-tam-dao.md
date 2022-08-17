@@ -2,17 +2,16 @@
 title: DU LỊCH TAM ĐẢO
 date: 2022-08-09
 layout: post
+comments: true
 tag: [story,travel]
 subtitle: Travel
-comments: true
-image: 'https://pbs.twimg.com/media/FaImFZcacAAESy2?format=jpg&name=4096x4096
+image: 'https://pbs.twimg.com/media/FaImFZcacAAESy2?format=jpg&name=4096x4096'
 thumb_image: 'https://pbs.twimg.com/media/FaImFZcacAAESy2?format=jpg&name=4096x4096'
 excerpt: >-
-Thị trấn mà mây ngay dưới chân mình
+ Thị trấn mà mây ngay dưới chân mình
 description: >-
-Thị trấn mà mây ngay dưới chân mình
+ Thị trấn mà mây ngay dưới chân mình
 ---
-
 
 ![Frame1](https://pbs.twimg.com/media/FaImFZnacAA1Wb3?format=jpg&name=large)
 
