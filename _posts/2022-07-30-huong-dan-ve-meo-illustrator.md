@@ -14,7 +14,11 @@ description: >-
   Ứng dụng cắt ghép và vẽ hình cơ bản bằng Adobe Illustrator
 ---
 
-## 1. Các tools sử dụng. 😽
+- [1. Các tools sử dụng 😽](#part1)
+- [2. File thực hành 😻](#part2)
+
+<a name="part1"></a>
+## 1. Các tools sử dụng 😽
 
 **Pathfinder** Gộp nhanh các shapes, cắt xén, chồng chéo<br>   
 **Shape Builder** Cắt dán nhanh lẹ các shape chồng chéo, cận kề<br>   
@@ -24,6 +28,7 @@ description: >-
 **Effect > Warp > Inflate** Bẻ cong đối tượng theo nhiều lựa chọn, Inflate là thổi phồng<br>   
 **Transform > Reflect** Lật đối xứng ngang / dọc<br>   
 
+<a name="part2"></a>
 ## 2. File thực hành 😻
 
 Bạn yêu tải file AI này để thực hành nhé.<br>   
