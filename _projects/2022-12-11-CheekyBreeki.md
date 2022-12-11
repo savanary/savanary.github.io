@@ -16,10 +16,10 @@ image: 'https://pbs.twimg.com/media/Fjq0KzyacAAR2r7?format=jpg&name=large'
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div> -->
 
-- Project : **Branding | Identity | Packaging | Exercise** <BR>
-- Designer : **Ry Nguyễn | Kim Đức Anh | Nguyễn Chí Thanh** <BR>
+- Project : **Branding - Identity - Packaging - Exercise** <BR>
+- Designer : **Ry Nguyễn - Kim Đức Anh - Nguyễn Chí Thanh** <BR>
 - Mentor: **Quang Nguyễn** <BR>
-- [Design Anthropology School | Branding Identity Foundation](https://das.info.vn/offline-course/DqQ4pYwdczH8/brand-identity-foundation) <BR>
+- [Design Anthropology School - Branding Identity Foundation](https://das.info.vn/offline-course/DqQ4pYwdczH8/brand-identity-foundation) <BR>
 
 We would like to express our deep thanks to [Mr. Quang Nguyen](https://wangrar.design), the mentor, for his dedicated guidance on the whole course so that we can produce this final result 💖<br>
 And thanks  [Quang Minh](https://www.behance.net/quangminh6), [Phuong Nguyen](https://www.behance.net/thanhpnguyen) to the groups for contributing as well as supporting to make our team more complete 💖.<br>
