@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 description: Some extra details about myself.
-image: 'https://pbs.twimg.com/media/FYrAZ9IUsAA8hGz?format=jpg&name=large'
+image: '[https://pbs.twimg.com/media/FYrAZ9IUsAA8hGz?format=jpg&name=large](https://pbs.twimg.com/media/F5fhSJEaYAA1Jc-?format=jpg&name=large)'
 ---
 
 Hi! ✌️ I'm **Nhung**. You can call me **Ry**. <br>
